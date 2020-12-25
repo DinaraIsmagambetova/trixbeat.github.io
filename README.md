@@ -1,2 +1,2 @@
-# TRIXBEAT.github.io
+# trixbeat.github.io
  
